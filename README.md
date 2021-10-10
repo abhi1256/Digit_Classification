@@ -1,1 +1,1 @@
-This Project mainly focues on classifiying Handwritten Digits.
+Digit_Classification(CNN)
